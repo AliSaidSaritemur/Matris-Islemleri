@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\Ödevler\Nesneye Dayalı programlama\2.Ödev\Odev2Soru2\bin\Debug\Odovdenme3.exe.config
+C:\Users\Asus\Documents\Ödevler\Nesneye Dayalı programlama\2.Ödev\Odev2Soru2\bin\Debug\Odovdenme3.exe
+C:\Users\Asus\Documents\Ödevler\Nesneye Dayalı programlama\2.Ödev\Odev2Soru2\bin\Debug\Odovdenme3.pdb
+C:\Users\Asus\Documents\Ödevler\Nesneye Dayalı programlama\2.Ödev\Odev2Soru2\obj\Debug\Odev2Soru2.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Ödevler\Nesneye Dayalı programlama\2.Ödev\Odev2Soru2\obj\Debug\Odovdenme3.Form1.resources
+C:\Users\Asus\Documents\Ödevler\Nesneye Dayalı programlama\2.Ödev\Odev2Soru2\obj\Debug\Odovdenme3.Properties.Resources.resources
+C:\Users\Asus\Documents\Ödevler\Nesneye Dayalı programlama\2.Ödev\Odev2Soru2\obj\Debug\Odev2Soru2.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Ödevler\Nesneye Dayalı programlama\2.Ödev\Odev2Soru2\obj\Debug\Odev2Soru2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Ödevler\Nesneye Dayalı programlama\2.Ödev\Odev2Soru2\obj\Debug\Odovdenme3.exe
+C:\Users\Asus\Documents\Ödevler\Nesneye Dayalı programlama\2.Ödev\Odev2Soru2\obj\Debug\Odovdenme3.pdb

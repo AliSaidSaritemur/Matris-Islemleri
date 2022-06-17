@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\Cods\c#\SAÜ\Odevdeneme\Odovdenme3\bin\Debug\Odovdenme3.exe.config
+C:\Users\Asus\Documents\Cods\c#\SAÜ\Odevdeneme\Odovdenme3\bin\Debug\Odovdenme3.exe
+C:\Users\Asus\Documents\Cods\c#\SAÜ\Odevdeneme\Odovdenme3\bin\Debug\Odovdenme3.pdb
+C:\Users\Asus\Documents\Cods\c#\SAÜ\Odevdeneme\Odovdenme3\obj\Debug\Odovdenme3.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Cods\c#\SAÜ\Odevdeneme\Odovdenme3\obj\Debug\Odovdenme3.Form1.resources
+C:\Users\Asus\Documents\Cods\c#\SAÜ\Odevdeneme\Odovdenme3\obj\Debug\Odovdenme3.Properties.Resources.resources
+C:\Users\Asus\Documents\Cods\c#\SAÜ\Odevdeneme\Odovdenme3\obj\Debug\Odovdenme3.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Cods\c#\SAÜ\Odevdeneme\Odovdenme3\obj\Debug\Odovdenme3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Cods\c#\SAÜ\Odevdeneme\Odovdenme3\obj\Debug\Odovdenme3.exe
+C:\Users\Asus\Documents\Cods\c#\SAÜ\Odevdeneme\Odovdenme3\obj\Debug\Odovdenme3.pdb
